@@ -1,0 +1,14 @@
+> python caesar_script_using_argparse.py --encode My message
+
+usage: caesar_script_using_argparse.py [-h] [-e | -d] [-k KEY] [text [text ...]]
+caesar_script_using_argparse.py: error: unrecognized arguments: --encode
+> python caesar_script_using_argparse.py --help
+                                                                                                                      
+usage: caesar_script_using_argparse.py [-h] [-e | -d] [-k KEY] [text [text ...]]
+positional arguments:
+  text
+optional arguments:
+  -h, --help         show this help message and exit
+  -e, --encrypt
+  -d, --decrypt
+  -k KEY, --key KEY
