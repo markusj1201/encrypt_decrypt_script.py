@@ -6,4 +6,6 @@ Argaparse
 Click
 CMD
 
+I have also included an Options quick sheet.
+
 Your welcome!
